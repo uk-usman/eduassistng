@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.EduAssist" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/navy</item>
+        <item name="android:navigationBarColor">@color/navy</item>
+        <item name="android:windowBackground">@android:color/white</item>
+    </style>
+</resources>
